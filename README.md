@@ -7,16 +7,14 @@ The project aims to investigate how humans perceive and reason about the stabili
 # Experiment Protocol
 1. Participants are presented with a tower in the VR environment and can freely rotate and touch the tower blocks using the TouchX haptic device.
 2. After observing the tower, participants are asked to:
-   * Judge the stability of the tower on a scale of 1-7, with 1 being the least stable and 7 being the most stable.
-   * Assess which zone(s) the tower will fall into. There are five zones, one in each cardinal direction and a stable zone. Participants can pick two zones but are required to pick at least one.
-   * Ensure they have the best viewing angle before submitting their answers.
-4. After submitting their answers, the towers are reset to the center, and participants watch the towers fall.
+   - Judge the stability of the tower on a scale of 1-7, with 1 being the least stable and 7 being the most stable.
+   - Assess which zone(s) the tower will fall into. There are five zones, one in each cardinal direction and a stable zone. Participants can pick two zones but are required to pick at least one.
+   - Ensure they have the best viewing angle before submitting the answer.
+4. After submitting the answer,  the tower will reset to the initial view, and participants watch the outcome of whether the tower falls or remains standing.
 Participants assess 50 towers, each repeated 2 times.
 
 # Image-based Prediction Modeling
-In addition to studying human intuitions, this project also aims to develop image-based models to predict whether a tower will fall or remain standing based solely on image data of the constructed towers. The dataset consists of images of different viewing angles of 50 towers, totaling 164 unstable and 144 stable tower images.
-
-Pre-trained models such as ResNet-50 and InceptionV3 are employed for this task, and techniques like oversampling and data augmentation are explored to address issues like small dataset size and class imbalance.
+In addition to studying human intuitions, this project also aims to develop image-based models to predict whether a tower will fall or remain standing, based solely on image data of the constructed towers. The dataset consists of images of different viewing angles of 50 towers, totaling 164 unstable and 144 stable tower images. Pre-trained models such as ResNet-50 and InceptionV3 are employed for this task.
 
 # Features
 
