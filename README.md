@@ -85,4 +85,4 @@ In the experiment, we saved:
 
 
 # Acknowledgments
-We would like to express our gratitude to Dr. Bei Xiao and her lab team members, Jesse Schwartz, Michael Reinisch, and Chenxi Liao, for their valuable contributions and insights throughout this project.
+Thanks to Dr. Bei Xiao and her lab team members, Jesse Schwartz, Michael Reinisch, and Chenxi Liao, for their valuable contributions and insights throughout this project.
