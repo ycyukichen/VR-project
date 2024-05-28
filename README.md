@@ -56,9 +56,9 @@ After each participant completes the experiment, the data will be saved in a tex
 In the experiment, we saved:
 
 - Zone1
-  - First zone selected by the user, 0-5.
+  - First zone selected by the user, 0-4.
 - Zone2
-  - Second zone selected by the user, 0-5, may be -1 if not selected
+  - Second zone selected by the user, 0-4, may be -1 if not selected
 - Stability
   - Stability score selected by the user, 1-7
 - Time
