@@ -1,2 +1,2 @@
 # VR-project
-Data Science Capstone project supervised by Dr. Xiao, focusing on the exploration of intuitive physics in a virtual reality (VR) environment.
+The data science practicum project, supervised by Dr. Xiao, focuses on exploring intuitive physics in a virtual reality (VR) environment.
